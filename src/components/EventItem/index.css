@@ -1,0 +1,20 @@
+li {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  width: 45%;
+  margin-bottom: 25px;
+}
+button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+
+.event-img {
+  width: 100%;
+}
+
+p {
+  margin: 0px;
+}

@@ -1,0 +1,32 @@
+* {
+  font-family: Roboto;
+}
+
+.event-background {
+  display: flex;
+  color: #f8fafc;
+}
+
+.event-container {
+  background-color: #64748b;
+  padding: 30px;
+  width: 55%;
+  height: 100vh;
+  background-size: cover;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.empty-txt {
+  width: 45%;
+  color: #64748b;
+  font-size: 40px;
+  text-align: center;
+  margin-top: 25px;
+}
